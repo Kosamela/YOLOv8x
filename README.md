@@ -2,6 +2,9 @@
 
 ## Projekt pierwszy: main.py
 Wykorzystuje YOLOv8 i wcześniej wyuczone modele do rozpoznawania obrazów.
+Stwórz foldery walidacyjne 
+mkdir \images\validation\car
+mkdir \images\validation\other
 
 ### Funkcjonalności
 - Program zapisuje zdjęcia, na których wykryto auta w folderze `.\processed_images\wykryto` z obrysowaną niebieską ramką.
